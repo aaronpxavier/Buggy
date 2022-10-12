@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "576964D0-18AF-4FF3-9219-324BD12C6A9E"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.ExceptionBreakpoint">
+         <BreakpointContent
+            uuid = "B79272B7-BE29-49B7-A80B-F6A258CAC5E5"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            breakpointStackSelectionBehavior = "1"
+            scope = "1"
+            stopOnStyle = "0">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.SymbolicBreakpoint">
+         <BreakpointContent
+            uuid = "BC9AE381-80A4-44FF-9088-E8A9590B4372"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            symbolName = "badMethod"
+            moduleName = "">
+            <Locations>
+               <Location
+                  uuid = "BC9AE381-80A4-44FF-9088-E8A9590B4372 - d011eaed1166ccec"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Buggy.ViewController.badMethod() -&gt; ()"
+                  moduleName = "Buggy"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/ladmin/Code/Buggy/Buggy/ViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "23"
+                  endingLineNumber = "23"
+                  offsetFromSymbolStart = "64">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
